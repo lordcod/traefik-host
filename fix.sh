@@ -1,5 +1,3 @@
-cd /opt/traefik
-
 docker compose down
 
 rm -rf acme.json
